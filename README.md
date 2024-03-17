@@ -1,5 +1,9 @@
 ## Klasifikasi Teks Berita Acara dengan Python
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:837/1*tI-TWV--K05xbXUgA4Qm1w.png">
+</p>
+
 ### Deskripsi
 Proyek ini adalah tentang klasifikasi teks berita acara menggunakan Python dengan TensorFlow. Tujuan utamanya adalah untuk mengkategorikan berita acara ke dalam beberapa kategori yang ditentukan seperti teknologi, bisnis, politik, olahraga, dan hiburan. Proyek ini menawarkan solusi untuk mengotomatisasi proses klasifikasi berita acara berdasarkan kontennya.
 

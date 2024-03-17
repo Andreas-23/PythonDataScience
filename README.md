@@ -42,7 +42,8 @@ https://www.kaggle.com/code/muhammadnss/klasifikasi-teks-berita-bbc/notebook
 ### Kontak
 Untuk pertanyaan atau saran, silakan hubungi kami melalui:
 - Email: andreas.sunbae@gmail.com
-- GitHub: @Andreas-23
+- GitHub: 
+-         @Andreas-23
 -         @Adithya2901
 -         @AkbarWidianto
 
